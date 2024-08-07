@@ -1,0 +1,57 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-05 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-05 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-08-05 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-05 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-05 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2024-08-05 21:52:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-08-05 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "grassland": "2024-08-05 21:52:02 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "grassland": "2024-08-05 21:52:02 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
